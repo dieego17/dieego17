@@ -3,7 +3,7 @@
 
 <h4>Skills and Tools: </h4>
 <div display="flex">
-<img src="https://skillicons.dev/icons?i=git,bootstrap,symfony,css,github,php,html,java,js,linux,mongodb,mysql,nodejs,react,vscode&perline=20" />
+<img src="https://skillicons.dev/icons?i=git,bootstrap,symfony,html,css,js,react,mongodb,github,php,java,linux,mysql,nodejs,vscode&perline=20" />
 </div>
 
 
