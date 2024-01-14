@@ -1,9 +1,9 @@
 ### <h1> Hola, soy Diego Rubio 👋 </h1>
 
 ## About Me 🧑‍💻
-- 🎓 Estudiante de Desarrollo de Aplicaciones Web en IES Ribera del Tajo.
-- 🌐 Aprendiendo nuevas tecnologías y lenguajes.
-- 🚀 Apasionado por la tecnología y por nuevos retos.
+- 🎓 Web Application Development Student at IES Ribera del Tajo.
+- 🌐 Learning new technologies and languages.
+- 🚀 Passionate about technology and new challenges.
 
 ## Connect with me 🌐
 <a href = 'https://www.linkedin.com/in/dieego17/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
