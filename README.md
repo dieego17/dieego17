@@ -1,4 +1,4 @@
-### <h1> Hola, soy Diego Rubio 👋 </h1>
+### <h1> Hello, I'm Diego Rubio 👋 </h1>
 
 ## About Me 🧑‍💻
 - 🎓 Web Application Development Student at IES Ribera del Tajo.
