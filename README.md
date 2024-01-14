@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+
+<h4>Skills and Tools: </h4>
+<div display="flex">
+<img src="https://skillicons.dev/icons?i=git,bootstrap,symfony,css,github,php,html,java,js,linux,mongodb,mysql,nodejs,react,vscode&perline=20" />
+</div>
+
+
 <!--
 **dieego17/dieego17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
