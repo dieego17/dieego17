@@ -9,9 +9,12 @@
 <a href = 'https://www.linkedin.com/in/dieego17/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 
 ## Skills and Tools 💻
-<div display="flex">
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,angular,typescript,nextjs,nodejs,nestjs,react,php,symfony,java,mysql,linux,vscode,git,github,postman,sequelize&perline=20" />
-</div>
+| ENVIRONMENT | TECHNOLOGIES |
+| :---: | :---: |
+| FRONTEND | <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,angular,typescript,nextjs,react&perline=20" /> |
+| BACKEND | <img src="https://skillicons.dev/icons?i=nodejs,nestjs,php,symfony,java,mysql,sequelize&perline=20" /> |
+| TOOLS | <img src="https://skillicons.dev/icons?i=linux,vscode,git,github,postman,eclipse&perline=20" />
+
 
 ## Projects 🚀
 * [Trivia-Game (HTML, CSS, JavaScript)](https://github.com/dieego17/Trivia-Game)
