@@ -1,7 +1,7 @@
 ### <h1> Hello, I'm Diego Rubio 👋 </h1>
 
 ## About Me 🧑‍💻
-- 🎓 Web Application Development Student at IES Ribera del Tajo.
+- 🎓 Web Application Development Graduate from IES Ribera del Tajo.
 - 🌐 Learning new technologies and languages.
 - 🚀 Passionate about technology and new challenges.
 
