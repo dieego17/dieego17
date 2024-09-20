@@ -1,9 +1,10 @@
 ### <h1> Hello, I'm Diego Rubio 👋 </h1>
 
 ## About Me 🧑‍💻
-- 🎓 Web Application Development Graduate from IES Ribera del Tajo.
-- 🌐 Learning new technologies and languages.
-- 🚀 Passionate about technology and new challenges.
+- 🎓 Graduate in Web Application Development from IES Ribera del Tajo.
+- 🌐 Continuously exploring new technologies and programming languages.
+- 📈 Currently expanding my expertise in DevOps practices and tools.
+- 🚀 Passionate about tackling new challenges and pushing the boundaries of technology.
 
 ## Connect with me 🌐
 <a href = 'https://www.linkedin.com/in/dieego17/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
