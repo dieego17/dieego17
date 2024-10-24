@@ -3,7 +3,7 @@
 ## About Me 🧑‍💻
 - 🎓 Graduate in Web Application Development from IES Ribera del Tajo.
 - 🌐 Continuously exploring new technologies and programming languages.
-- 📈 Currently expanding my expertise in DevOps practices and tools.
+- 📈 Currently pursuing a specialization course in Artificial Intelligence and Big Data.
 - 🚀 Passionate about tackling new challenges and pushing the boundaries of technology.
 
 ## Connect with me 🌐
