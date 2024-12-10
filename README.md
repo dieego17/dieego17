@@ -13,7 +13,7 @@
 | ENVIRONMENT | TECHNOLOGIES |
 | :---: | :---: |
 | FRONTEND | <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,angular,typescript,nextjs,react&perline=20" /> |
-| BACKEND | <img src="https://skillicons.dev/icons?i=py,nodejs,nestjs,php,symfony,java,mysql,sequelize,spring,mongodb&perline=20" /> |
+| BACKEND | <img src="https://skillicons.dev/icons?i=py,nodejs,nestjs,php,symfony,java,mysql,sequelize,spring,mongodb,r&perline=20" /> |
 | TOOLS | <img src="https://skillicons.dev/icons?i=linux,vscode,git,github,postman,eclipse,docker,pycharm,tensorflow,anaconda&perline=20" />
 
 
