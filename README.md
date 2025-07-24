@@ -2,9 +2,10 @@
 
 ## About Me 🧑‍💻
 - 🎓 Graduate in Web Application Development from IES Ribera del Tajo.
-- 🌐 Continuously exploring new technologies and programming languages.
-- 📈 Currently pursuing a specialization course in Artificial Intelligence and Big Data.
+- ☁️ Experienced working with AWS services like Lambda, API Gateway, S3, Cognito, and Bedrock.
+- 🧠 Graduated from a specialization course in Artificial Intelligence and Big Data.
 - 🚀 Passionate about tackling new challenges and pushing the boundaries of technology.
+
 
 ## Connect with me 🌐
 <a href = 'https://www.linkedin.com/in/dieego17/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
@@ -14,7 +15,7 @@
 | :---: | :---: |
 | FRONTEND | <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,angular,typescript,nextjs,react&perline=20" /> |
 | BACKEND | <img src="https://skillicons.dev/icons?i=py,nodejs,nestjs,php,symfony,java,mysql,sequelize,spring,mongodb,r&perline=20" /> |
-| TOOLS | <img src="https://skillicons.dev/icons?i=linux,vscode,git,github,postman,eclipse,docker,pycharm,tensorflow,anaconda,pytorch&perline=20" />
+| TOOLS | <img src="https://skillicons.dev/icons?i=linux,vscode,git,github,postman,eclipse,docker,pycharm,tensorflow,anaconda,pytorch,aws&perline=20" />
 
 
 ## Projects 🚀
