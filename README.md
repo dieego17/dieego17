@@ -1,57 +1,43 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg">
-  <img alt="Diego Rubio, data & cloud engineer en Devoteam. Talavera de la Reina, en remoto." src="./assets/header-dark.svg" width="100%">
-</picture>
+<img src="./assets/hoja-1-portada.svg" width="100%" alt="Diego Rubio, cloud & AI engineer. Diseño y monto sistemas en AWS: agentes con Bedrock, búsqueda semántica, bots de voz y backends serverless.">
 
-### Hola, soy Diego 👋
+<p align="center">
+  <a href="https://www.linkedin.com/in/dieego17/"><img alt="LinkedIn: dieego17" src="https://img.shields.io/badge/LinkedIn-dieego17-0F3357?style=for-the-badge&logo=linkedin&logoColor=E8F1FA&labelColor=1D4D7C"></a>
+  <img alt="Data engineer en Devoteam" src="https://img.shields.io/badge/Devoteam-data%20engineer-0F3357?style=for-the-badge&labelColor=1D4D7C">
+  <img alt="Primer puesto en un hackathon de AWS" src="https://img.shields.io/badge/hackathon%20AWS-1.%C2%BA%20puesto-FF9900?style=for-the-badge&labelColor=1D4D7C">
+</p>
 
-Trabajo en Devoteam desde abril de 2025 y paso casi todo el día dentro de AWS. Empecé haciendo webs con PHP y React en clase, y he acabado montando agentes con Bedrock, bots de voz que atienden llamadas y buscadores que entienden lo que les pides en vez de buscar palabras sueltas.
-
-Me gusta llevar las cosas de punta a punta: la infra, la API, el modelo y también el front. Y que lo que sale a producción sea seguro, que con IAM y Cognito no se juega.
-
-### Lo último
-
-El 4 de noviembre de 2026 ganamos el **AWS Media & Entertainment Agentic AI Partner Hackathon** en las oficinas de AWS en Madrid. Fuimos el equipo 5 de Devoteam y presentamos **DevoKiros**: le das un brief y unos agentes se encargan de sacar un anuncio de vídeo.
-
-### En qué ando metido
-
-Casi todo es para clientes, así que no puedo enseñar el código, pero sí contar qué es:
-
-- Un **buscador de cuadros para un museo** que va por significado: Lambda, Aurora con pgvector, Bedrock y DynamoDB por detrás.
-- **Bots de voz** en Amazon Connect + Lex que contestan llamadas tirando de una base de conocimiento en Bedrock. Ya lo he adaptado a más de un cliente.
-- Una **plataforma de agentes** sobre AgentCore, configurada desde DynamoDB y expuesta por API Gateway. Aquí hago evolutivos y también auditoría y arreglos de seguridad.
-- Fronts en **Next.js desplegados con Amplify** y APIs REST con Cognito para propuestas nuevas.
-
-Y por mi cuenta estoy preparando la **AWS Certified Developer – Associate**.
-
-### Cosas que sí puedes ver
-
-| Proyecto | Qué es | Con qué |
-| --- | --- | --- |
-| [AppTaxio](https://github.com/dieego17/TFG-AppTaxi-FrontEnd) | Mi TFG. Gestión del día a día de un taxista: agenda, clientes, facturas en PDF y correos ([backend](https://github.com/dieego17/TFG-AppTaxi-BackEnd)) | React, Vite, Node, Express, Sequelize, MySQL, JWT |
-| [California Housing API](https://github.com/dieego17/IA_housing_California_APIREST) | Modelo que predice precios de vivienda servido como API | Python, TensorFlow/Keras, scikit-learn, FastAPI |
-| [Zalando Dataset](https://github.com/dieego17/Model_IA_Zalando_Dataset) | Red neuronal que reconoce prendas de ropa en imágenes | Python, TensorFlow, OpenCV |
-| [CRUD Next + Nest](https://github.com/dieego17/CRUD-NextJS-and-NesJS) | CRUD completo para pelearme con los dos frameworks | Next.js, NestJS, TypeScript |
-
-<details>
-<summary>Y de cuando empezaba</summary>
 <br>
 
-Los guardo porque de aquí viene todo: [Space Invaders en Canvas](https://github.com/dieego17/Space-Invaders-Canva), [reservas de hotel en MVC](https://github.com/dieego17/Rubio-Hotels-MVC), [un videoclub en PHP](https://github.com/dieego17/VideoClub-Rubio), [la web de un fisio](https://github.com/dieego17/Physio-Serrano) y [un trivial](https://github.com/dieego17/Trivia-Game).
+<img src="./assets/hoja-2-hackathon.svg" width="100%" alt="Primer puesto en el AWS Media & Entertainment Agentic AI Partner Hackathon, Madrid, 4 de noviembre de 2026, con DevoKiros: agentes que generan un anuncio de vídeo a partir de un brief.">
 
-</details>
+<br>
+<br>
 
-### Con qué trabajo
+<img src="./assets/hoja-3-clientes.svg" width="100%" alt="Trabajo para clientes: buscador de cuadros de un museo con Bedrock y pgvector, asistente telefónico con Amazon Connect y Lex, plataforma de agentes en AgentCore, y webs con Next.js, Amplify y Cognito.">
 
-```text
-cloud      Lambda · API Gateway · Cognito · IAM · S3 · DynamoDB · Aurora · Fargate · Amplify
-ia         Bedrock · AgentCore · RAG · pgvector · Lex · Amazon Connect
-backend    Python · FastAPI · Node.js · NestJS · TypeScript
-frontend   Next.js · React · Tailwind
-infra      Terraform · CloudFormation · Docker · Git
-```
+<br>
+<br>
 
----
+### Proyectos que sí puedes abrir
 
-Si quieres hablar de AWS, de IA generativa o de algo que estés montando, escríbeme por [LinkedIn](https://www.linkedin.com/in/dieego17/).
+<table>
+  <tr>
+    <td width="50%"><a href="https://github.com/dieego17/TFG-AppTaxi-FrontEnd"><img src="./assets/proyecto-apptaxio.svg" width="100%" alt="AppTaxio, mi TFG: agenda, clientes, facturas en PDF y correos para un taxista. React, Node, Express, MySQL y JWT."></a></td>
+    <td width="50%"><a href="https://github.com/dieego17/IA_housing_California_APIREST"><img src="./assets/proyecto-housing.svg" width="100%" alt="California Housing: red neuronal que estima el precio de una vivienda, servida con FastAPI."></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://github.com/dieego17/Model_IA_Zalando_Dataset"><img src="./assets/proyecto-zalando.svg" width="100%" alt="Zalando Dataset: red neuronal que reconoce prendas de ropa a partir de una foto."></a></td>
+    <td width="50%"><a href="https://github.com/dieego17/CRUD-NextJS-and-NesJS"><img src="./assets/proyecto-crud.svg" width="100%" alt="CRUD completo con Next.js y NestJS."></a></td>
+  </tr>
+</table>
+
+<sub>El backend de AppTaxio está en <a href="https://github.com/dieego17/TFG-AppTaxi-BackEnd">TFG-AppTaxi-BackEnd</a>. Y si te pica la curiosidad por cómo empecé: <a href="https://github.com/dieego17/Space-Invaders-Canva">Space Invaders en Canvas</a>, <a href="https://github.com/dieego17/Rubio-Hotels-MVC">reservas de hotel en MVC</a> y <a href="https://github.com/dieego17/VideoClub-Rubio">un videoclub en PHP</a>.</sub>
+
+<br>
+<br>
+
+<img src="./assets/hoja-4-stack.svg" width="100%" alt="Stack: Lambda, API Gateway, Fargate, Bedrock, AgentCore, Aurora con pgvector, DynamoDB, S3, Amazon Connect, Lex, Cognito, IAM, Terraform, CloudFormation, Docker, Python, FastAPI, TypeScript, Next.js, React, Tailwind, Node.js, NestJS y Express.">
+
+<p align="center">
+  <sub>Ahora mismo preparando la AWS Certified Developer – Associate. Si quieres hablar de AWS o de algo que estés montando, <a href="https://www.linkedin.com/in/dieego17/">escríbeme por LinkedIn</a>.</sub>
+</p>
